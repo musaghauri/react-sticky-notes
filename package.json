@@ -1,0 +1,19 @@
+{
+  "name": "react-sticky-notes",
+  "version": "1.0.0",
+  "description": "sticky notes component built with react",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musaghauri/react-sticky-notes.git"
+  },
+  "author": "Muhammad Musa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musaghauri/react-sticky-notes/issues"
+  },
+  "homepage": "https://github.com/musaghauri/react-sticky-notes#readme"
+}
